@@ -5,12 +5,12 @@
 - get the data from coverages via WCPS for selected polygon
 
 ## Target user groups
-- Future ONDA DIAS platform users
+- Users requiring data manipulation and visualisation functionalities via web application
 -
 
 ## Methodology
 - Define reference data which will be used as a filter for WCPS queries (GADM world borders, levels 0, 1, 2)
-- From WCS getCapabilities discover overages
+- From WCS getCapabilities discover coverages
 
 ## Results
 
