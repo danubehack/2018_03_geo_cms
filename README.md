@@ -1,4 +1,7 @@
 # GeoCMS
+## Summary
+Existing solutions for management of geospatial data and earth observation dataň, i.e. geospatial content management system (GeoCMS) provide functionalities to upload datasets, describe them with metadata and show them on map. Data processing and analysis is not well supported.
+This project, GeoCMS, is trying to overcome this deficiency. More specifically, we enabled upload of multiple datasets. We used vector data from GADM (https://gadm.org/) as a filter when fetching data via OGC WCPS service which provides Copernicus data. As a use cases we made analysis of population and land cover data. User is able to click on polygon (one of theree levels of GADM) and get Copernicus data for that polygon (average, min, max values).
 ## Motivation
 - existing geospatial content management systems provide limited functionalities for data processing
 - enable adding various data sources from GetCapabilities
