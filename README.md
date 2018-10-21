@@ -37,3 +37,6 @@ This project, GeoCMS, is trying to overcome this deficiency. More specifically, 
 
 ## Live demo
 - http://173.212.238.231:20081/danubehack/geocms/
+
+## Source (source above is packed)
+- https://github.com/svranic/geocms-wcps
